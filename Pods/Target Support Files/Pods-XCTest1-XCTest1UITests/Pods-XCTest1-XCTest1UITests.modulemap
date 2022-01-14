@@ -1,0 +1,6 @@
+framework module Pods_XCTest1_XCTest1UITests {
+  umbrella header "Pods-XCTest1-XCTest1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
